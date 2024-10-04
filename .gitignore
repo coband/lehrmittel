@@ -1,0 +1,12 @@
+# Ignoriere virtuelle Umgebungen
+venv/
+ENV/
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+*.env
+
+# Ignoriere Node-Module für React-Frontend
+node_modules/
+build/
