@@ -1,1 +1,1 @@
-web: gunicorn backend.wsgi --log-file -
+web: gunicorn Lehrmittel-project.backend.inner_backend.wsgi --log-file -
